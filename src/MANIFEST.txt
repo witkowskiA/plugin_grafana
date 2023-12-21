@@ -1,0 +1,2 @@
+export GRAFANA_ACCESS_POLICY_TOKEN=glc_eyJvIjoiOTYyNjM4IiwibiI6ImNzZ3JvdXAta2Fma2FtZXRpcy1wYW5lbC1wbHVnaW4ta2Fma2EtbWV0aXMiLCJrIjoiMTJhekU4aUNaSDJoSTR0aXIzMWJFOTUyIiwibSI6eyJyIjoidXMifX0=
+npx @grafana/sign-plugin@latest

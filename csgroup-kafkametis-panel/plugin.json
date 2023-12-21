@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "plugin-kafka-metis",
+
+  "id": "csgroup-kafkametis-panel",
+  "info": {
+    "keywords": ["panel"],
+    "description": "Query json",
+    "author": {
+      "name": "Cs group"
+    },
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots":[ {"name":"logo","path":"img/logo-plugin.svg"}],
+    "version": "1.0.0",
+    "updated": "2023-12-21"
+  },
+
+  "dependencies": {
+    "grafanaDependency": ">=10.0.3",
+    "plugins": []
+  }
+}
